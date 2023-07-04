@@ -7,8 +7,8 @@ Keywords: shock mobility, migrant information practices, experiences, informatio
 
 This repo contains the code to:
 
-Download survey data on the Ukrainian migration
-Translate it into English
-Cleaning the data to the interested target population
-Visualize answers to quantitative and qualitative questions
+1. Download survey data on the Ukrainian migration
+2. Translate it into English
+3. Cleaning the data to the interested target population
+4. Visualize answers to quantitative and qualitative questions
 
